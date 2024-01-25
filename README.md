@@ -1,5 +1,6 @@
 # ADBForwarder
 Fully reengineered, ported to dotnet 8.
+ADB library changed to AdvancedSharpAdbClient
 
 Console application designed to handle forwarding TCP Ports (using [ADB](https://developer.android.com/studio/command-line/adb)) between your PC and Quest/Go HMDs, over USB
 
